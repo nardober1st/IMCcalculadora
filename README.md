@@ -26,3 +26,5 @@ Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros pass
 ### TODO
 - Melhorar estilização do app
 
+## Author
+Bernardo Oechsler (connect with me on [Linkedin](https://www.linkedin.com/in/bernardo-oechsler-b84995194))
